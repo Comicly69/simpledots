@@ -1,0 +1,4 @@
+Theme: Rose pine theme (moon)
+Exentions:
+
+Code runner
